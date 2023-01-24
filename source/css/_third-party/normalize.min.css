@@ -178,3 +178,8 @@ template {
 [hidden] {
   display: none
 }
+
+@font-face {
+  font-family: 'FZZH-YMYYTJW';
+  src: url("https://cdn.chronos.top/hexo/font/FZZH-YMYYTJW.TTF");
+}
